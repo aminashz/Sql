@@ -13,6 +13,4 @@ SELECT price AS secondhighestprice
 FROM second 
 WHERE rnk=2;
 
-output 
-
-Screenshot_20260910_212929.jpg
+![output](Screenshot_20260910_212929.jpg)
