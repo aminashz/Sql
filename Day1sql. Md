@@ -12,3 +12,4 @@ FROM product
 SELECT price AS secondhighestprice
 FROM second 
 WHERE rnk=2;
+
